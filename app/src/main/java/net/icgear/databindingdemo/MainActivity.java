@@ -27,12 +27,12 @@ public class MainActivity extends AppCompatActivity {
 //        user.setIcon("https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png");
 //        user.setLevel(5);
 //
-//        User user1 = new User();
-//        user1.setName("新人");
-//        user1.setNickName("DB");
-//        user1.setEmail("2@2.net");
-//        user1.setVip(false);
-//        user1.setLevel(2);
+        User user1 = new User();
+        user1.setName("新人");
+        user1.setNickName("DB");
+        user1.setEmail("2@2.net");
+        user1.setVip(false);
+        user1.setLevel(2);
 //
 //        List<User> users = new ArrayList<User>();
 //        users.add(user);
